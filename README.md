@@ -55,7 +55,3 @@ The Weather App is open-source software licensed under the [MIT License](LICENSE
 
 - This Weather App was created for educational purposes and is not intended for commercial use.
 - Thanks to OpenWeatherMap for providing the API to fetch weather data.
-
----
-
-Feel free to customize this README to fit the specific details of your Weather App and the API provider you choose. Happy coding!
