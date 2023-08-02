@@ -1,6 +1,7 @@
 # Weather App with API Integration (HTML, CSS, JavaScript)
 
 This Weather App is a simple web application that allows users to fetch and display weather information for different locations using an external API. It provides real-time weather data, such as temperature, humidity, wind speed, and weather conditions, for any city specified by the user.
+<img width="960" alt="Screenshot 2023-08-02 164313" src="https://github.com/sarveshy200/Weather-App/assets/105293807/caaecafd-a213-44eb-83a6-b76f109e746b">
 
 ## How to Use
 
